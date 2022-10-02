@@ -10,3 +10,4 @@ python3 server.py
 
 Simulate Clients Each client.py starts an application for one client. To run mulpiple clients, copy client.py to different directory. Server's host is optional. It will be localhost by default.
 python3 client.py
+ 
