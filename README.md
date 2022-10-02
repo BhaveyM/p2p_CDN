@@ -1,4 +1,4 @@
-# p2p_CDN
+# P2P_CDN
 This program is a CDN P2P file sharing system, in which peers who wish to download a file that they do have in their local hard drive, may download it from another active peer who does.
 
 # Instruction
