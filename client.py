@@ -8,7 +8,7 @@ s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
 s.connect((TCP_IP, TCP_PORT))
 # ext = s.recv(10)
 st = time.time()
-with open('received_file.mp4', 'wb') as f:
+with open('received_file.pdf', 'wb') as f:
     print('file opened')
     while True:
         #print('receiving data...')

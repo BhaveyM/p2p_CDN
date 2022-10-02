@@ -19,7 +19,7 @@ class ClientThread(Thread):
         print(" New thread started for " + ip + ":" + str(port))
 
     def run(self):
-        filename = "vibhor.mp4"
+        filename = "test.pdf"
         # print(pathlib.Path(filename).suffix)
         # self.sock.send(bytes(pathlib.Path(filename).suffix, 'utf-8'))s
         f = open(filename, 'rb')
